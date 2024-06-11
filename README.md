@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil 👋
 
-<!--
-**42Pks/42Pks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Pedro Kaue
 
-Here are some ideas to get you started:
+- Estou estudando [alura](https://www.alura.com.br)
+- Estou aprendendo linguagem JavaScript
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo
+
+00001083363980sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/4ypda0Yf3pIAAAAM/mc-hariel-hariel.gif)
